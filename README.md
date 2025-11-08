@@ -1,5 +1,11 @@
+![Logo](https://raw.githubusercontent.com/olios123/chess-app/refs/heads/main/Screenshot-1.png)
+
 # Chess App
 Chess App is a simple chess application that uses other libraries and combines everything into one whole. The website is based on a socket-based client-server system.
+
+## Screenshots
+
+![Screenshot](https://github.com/olios123/chess-app/blob/main/Screenshot-2.png)
 
 ## Requirements
 - NodeJS v20.12.1
@@ -38,11 +44,6 @@ You should then see `Server listening on port {PORT}`. This means that the serve
     
     npm run server
 
-
-# Screenshots
-
-
-<img src="https://cdn.discordapp.com/attachments/1009784232601718825/1231591202441400350/Zrzut_ekranu_2024-04-21_150322.png?ex=663783b0&is=66250eb0&hm=519fc8bcd55ad11c9516d9b42b3c5c042ed78424c081af81f161faf2e203f200&" alt="Chess main page">
 
 # Development plans
 - Adding English language
